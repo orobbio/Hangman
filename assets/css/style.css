@@ -1,0 +1,34 @@
+body{
+     background-image: url(../images/blue.jpg);
+}
+.container{
+    background-image: url(../images/blue2.jpg);
+    width: 70%;
+    margin: 25px auto;
+    overflow: auto;
+    border: solid 10px black;
+}
+header{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    line-height: 100%;
+       
+}
+.game-play{
+    width: 60%;
+    float: right;
+    color: #ffffff;
+    
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+}
+.previous-round{
+    width: 40%;
+    float: left;
+    color: #ffffff;
+}
